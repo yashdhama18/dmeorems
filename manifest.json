@@ -1,0 +1,7 @@
+{
+    "name": "OneSignal Push Notifications Demo",
+    "short_name": "PushDemo",
+    "start_url": "/",
+    "display": "standalone",
+    "gcm_sender_id": "482941778795"  // This is usually "482941778795"
+}
